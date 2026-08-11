@@ -1,0 +1,6 @@
+{
+  "name": "StyleSmart – AI E-Commerce Recommendation System",
+  "description": "Next-generation AI fashion marketplace featuring smart recommendations, AI style assistant, visual product search, virtual outfit builder, and personalized shopping.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
