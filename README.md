@@ -70,7 +70,7 @@ If the project uses a different setup, check the `scripts` section in `package.j
 Visit the local URL displayed in your terminal, commonly:
 
 ```text
-http://localhost:5173
+http://localhost:3000
 ```
 
 ## 📂 Project Structure
